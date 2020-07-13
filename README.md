@@ -1,5 +1,5 @@
 # Selective-Change-Management-of-Project-Repository
-Project to reduce manual work of removing each components from your "src" repository which are not included in "package.xml" to be deployed. 
+Project to reduce manual work of removing each components from your "src" repository which are not included in "package.xml" whic includes component of the release deployment. 
 
 Procedure:
 1. Copy Paste your “src” metadata code into the "original_src" folder.
